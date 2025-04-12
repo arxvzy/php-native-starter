@@ -1,0 +1,11 @@
+# Environment
+.env
+
+# Vendor dependencies (composer)
+/vendor/
+
+# Blade template cache
+/storage/views/cache/
+
+# System files
+.DS_Store
